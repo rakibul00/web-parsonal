@@ -1,0 +1,79 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.caler-hiligting{
+    color: rgb(241, 74, 74);
+    font-size: 50px;
+}
+.top-banner{
+    background-image: url(image/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+p{
+    color: gray;
+}
+.hafe-writh{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.hafe-writh img{
+    width: 100%;
+}
+.link-battun{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(154, 73, 230), rgb(43, 5, 68));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: beige;
+    font-weight: 700;
+}
+.medel-banner{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.thard-writh{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.thard-writh img{
+    width: 100%;
+}
+.last-p{
+    text-align: center;
+    color: black;
+}
+footer p{
+    text-align: center;
+}
+.last-botter{
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.last-batton img{
+    width: 100%;
+}
+.last-batton{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, rgb(154, 73, 230), rgb(43, 5, 68));
+    padding: 10px 20px ;
+    border-radius: 5px;
+    color: beige;
+    font-weight: 100;
+   
+}
+#last-p{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+footer a{
+    text-align: center;
+}
